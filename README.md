@@ -1,3 +1,3 @@
 # Garage-Android
 
-Languge: *Kotlin*
+Language: **Kotlin**
